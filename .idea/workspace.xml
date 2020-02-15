@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c84df1a-6d0c-4d13-8037-9d202397788a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CarTutorial" />
+  </component>
+  <component name="ProjectId" id="1UkSNwsN6r9TXHCYlC8n2k1ZrRI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.NewTest">
+    <configuration name="GuessTheNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuessTheNumber" />
+      <module name="Learn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Looping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Looping" />
+      <module name="Learn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManipulateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManipulateString" />
+      <module name="Learn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewTest" />
+      <module name="Learn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TheCarStories" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheCarStories" />
+      <module name="Learn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TheCarStories" />
+      <item itemvalue="Application.GuessTheNumber" />
+      <item itemvalue="Application.ManipulateString" />
+      <item itemvalue="Application.NewTest" />
+      <item itemvalue="Application.Looping" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NewTest" />
+        <item itemvalue="Application.Looping" />
+        <item itemvalue="Application.ManipulateString" />
+        <item itemvalue="Application.GuessTheNumber" />
+        <item itemvalue="Application.TheCarStories" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c84df1a-6d0c-4d13-8037-9d202397788a" name="Default Changelist" comment="" />
+      <created>1575899064813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575899064813</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/CarTutorial" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="107" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578725666830">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="107" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1578725666830" />
+    <state x="406" y="58" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1581645301267">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="406" y="58" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.738@0.0.1366.738" timestamp="1581645301267" />
+    <state x="463" y="109" key="FileChooserDialogImpl" timestamp="1578791419714">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="109" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1578791419714" />
+    <state x="517" y="285" width="356" height="167" key="Github.CreateGistDialog" timestamp="1581741319210">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="517" y="285" width="356" height="167" key="Github.CreateGistDialog/0.0.1366.738@0.0.1366.738" timestamp="1581741319210" />
+    <state x="322" y="157" width="260" height="212" key="Github.ShareDialog" timestamp="1581741427017">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="322" y="157" width="260" height="212" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1581741427017" />
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom" timestamp="1581740987490">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1581740987490" />
+    <state width="1323" height="181" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1581176831386" />
+    <state width="1323" height="180" key="GridCell.Tab.0.center" timestamp="1581740987489">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1581740987489" />
+    <state width="1323" height="181" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1581176831386" />
+    <state width="1323" height="180" key="GridCell.Tab.0.left" timestamp="1581740987489">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1581740987489" />
+    <state width="1323" height="181" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1581176831386" />
+    <state width="1323" height="180" key="GridCell.Tab.0.right" timestamp="1581740987489">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1581740987489" />
+    <state width="1323" height="181" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1581176831386" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1578833331537">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1578833331537" />
+    <state x="378" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1581588797219">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1581588797219" />
+    <state x="378" y="221" key="com.intellij.ide.util.TipDialog/0.30.1366.738@0.30.1366.738" timestamp="1580356138566" />
+    <state x="131" y="0" key="new project wizard" timestamp="1581601707389">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="131" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1581601707389" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1578756783722">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.738@0.0.1366.738" timestamp="1578756783722" />
+    <state x="339" y="159" width="672" height="677" key="run.anything.popup" timestamp="1580614873778">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="159" width="672" height="677" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1580614873778" />
+    <state x="687" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1581741141991">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="687" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1581741141991" />
+  </component>
+</project>
