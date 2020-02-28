@@ -4,7 +4,21 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c84df1a-6d0c-4d13-8037-9d202397788a" name="Default Changelist" comment="" />
+    <list default="true" id="0c84df1a-6d0c-4d13-8037-9d202397788a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CurrencyFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DateOfTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EndOfFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Looping_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Looping_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/IfClause.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn/IfClause.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/hitung.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn/test2.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,10 +33,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CarTutorial" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UkSNwsN6r9TXHCYlC8n2k1ZrRI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,6 +46,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -37,9 +54,9 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.NewTest">
-    <configuration name="GuessTheNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GuessTheNumber" />
+  <component name="RunManager" selected="Application.Looping_2">
+    <configuration name="DateOfTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DateOfTime" />
       <module name="Learn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -47,6 +64,13 @@
     </configuration>
     <configuration name="Looping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Looping" />
+      <module name="Learn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Looping_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Looping_2" />
       <module name="Learn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,27 +90,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheCarStories" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TheCarStories" />
-      <module name="Learn" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.TheCarStories" />
-      <item itemvalue="Application.GuessTheNumber" />
+      <item itemvalue="Application.Looping" />
       <item itemvalue="Application.ManipulateString" />
       <item itemvalue="Application.NewTest" />
-      <item itemvalue="Application.Looping" />
+      <item itemvalue="Application.DateOfTime" />
+      <item itemvalue="Application.Looping_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Looping_2" />
+        <item itemvalue="Application.DateOfTime" />
         <item itemvalue="Application.NewTest" />
         <item itemvalue="Application.Looping" />
         <item itemvalue="Application.ManipulateString" />
-        <item itemvalue="Application.GuessTheNumber" />
-        <item itemvalue="Application.TheCarStories" />
       </list>
     </recent_temporary>
   </component>
@@ -138,34 +155,34 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="322" y="157" width="260" height="212" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1581741427017" />
-    <state width="1323" height="180" key="GridCell.Tab.0.bottom" timestamp="1581740987490">
+    <state width="637" height="179" key="GridCell.Tab.0.bottom" timestamp="1582853332038">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1581740987490" />
+    <state width="637" height="179" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1582853332038" />
     <state width="1323" height="181" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1581176831386" />
-    <state width="1323" height="180" key="GridCell.Tab.0.center" timestamp="1581740987489">
+    <state width="637" height="179" key="GridCell.Tab.0.center" timestamp="1582853332037">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1581740987489" />
+    <state width="637" height="179" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1582853332037" />
     <state width="1323" height="181" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1581176831386" />
-    <state width="1323" height="180" key="GridCell.Tab.0.left" timestamp="1581740987489">
+    <state width="637" height="179" key="GridCell.Tab.0.left" timestamp="1582853332036">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1581740987489" />
+    <state width="637" height="179" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1582853332036" />
     <state width="1323" height="181" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1581176831386" />
-    <state width="1323" height="180" key="GridCell.Tab.0.right" timestamp="1581740987489">
+    <state width="637" height="179" key="GridCell.Tab.0.right" timestamp="1582853332037">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1581740987489" />
+    <state width="637" height="179" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1582853332037" />
     <state width="1323" height="181" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1581176831386" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1578833331537">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1578833331537" />
-    <state x="378" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1581588797219">
+    <state x="378" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1582776444295">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1581588797219" />
+    <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1582776444295" />
     <state x="378" y="221" key="com.intellij.ide.util.TipDialog/0.30.1366.738@0.30.1366.738" timestamp="1580356138566" />
     <state x="131" y="0" key="new project wizard" timestamp="1581601707389">
       <screen x="0" y="0" width="1366" height="738" />
@@ -179,9 +196,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="339" y="159" width="672" height="677" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1580614873778" />
-    <state x="687" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1581741141991">
+    <state x="687" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1582854709829">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="687" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1581741141991" />
+    <state x="687" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1582854709829" />
   </component>
 </project>
