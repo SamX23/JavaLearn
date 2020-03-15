@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c84df1a-6d0c-4d13-8037-9d202397788a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryNumbersConsecutive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DictionaryPrac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibCatalogue/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibCatalogue/LibCatalogue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursionWow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MadLibs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MadLibs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582894367751</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add more learned object">
+      <created>1584181423084</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584181423084</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,7 +151,8 @@
       <path value="$PROJECT_DIR$/CarTutorial" />
     </ignored-roots>
     <MESSAGE value="Update libs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update libs" />
+    <MESSAGE value="Add more learned object" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add more learned object" />
   </component>
   <component name="WindowStateProjectService">
     <state x="107" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578725666830">
@@ -167,10 +167,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="821" y="253" width="407" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.738@0.0.1366.738" timestamp="1583458038892" />
-    <state x="674" y="0" key="CommitChangelistDialog2" timestamp="1582894365369">
+    <state x="107" y="0" key="CommitChangelistDialog2" timestamp="1584181420551">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="674" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1582894365369" />
+    <state x="107" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1584181420551" />
     <state x="463" y="109" key="FileChooserDialogImpl" timestamp="1578791419714">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -207,10 +207,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1583055244596" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1582894421914">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1584182222745">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1582894421914" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1584182222745" />
     <state x="378" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1584178854374">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
